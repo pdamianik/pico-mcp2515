@@ -28,3 +28,5 @@ Contributing to this software is warmly welcomed. You can do this basically by [
 
 Seeed Studio is an open hardware facilitation company based in Shenzhen, China. Benefiting from local manufacture power and convenient global logistic system,
 we integrate resources to serve new era of innovation. Seeed also works with global distributors and partners to push open hardware movement
+
+This is an adapted version of https://github.com/adamczykpiotr/pico-mcp2515 to make it easier to use in existing pico projects.
